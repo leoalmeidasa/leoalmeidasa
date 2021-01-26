@@ -19,4 +19,5 @@
 - 🐬 MySQL
 
 >👨🏻‍💻 Information Technology Student
+
 ![Leonardo Almeida GitHub Stats](https://github-readme-stats.vercel.app/api?username=leoalmeidasa&show_icons=true)
