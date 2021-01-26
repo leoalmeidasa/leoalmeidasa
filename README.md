@@ -11,7 +11,7 @@
 
 ## Studying now
 
-📝 Knowledge is never too much, these are the content I'm focused on at the moment.
+📝 The technologies I'm studying at the moment
 
 - ☕️ Java
 - ⚡️ Javascript
