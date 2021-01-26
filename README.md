@@ -8,4 +8,5 @@ I'm a {backend, frontend } !
 
 - [Courses]👨🏼‍🏫 PHP, JAVA, HTML and CSS
 
+
 ![Leonardo Almeida GitHub Stats](https://github-readme-stats.vercel.app/api?username=leoalmeidasa&show_icons=true)
