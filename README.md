@@ -20,4 +20,4 @@
 
 >👨🏻‍💻 Information Technology Student
 
-![Leonardo Almeida GitHub Stats](https://github-readme-stats.vercel.app/api?username=leoalmeidasa&show_icons=true)
+![Leonardo Almeida GitHub Stats](https://github-readme-stats.vercel.app/api?username=leoalmeidasa&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true)
