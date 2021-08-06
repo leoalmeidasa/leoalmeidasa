@@ -17,6 +17,8 @@
 - ⚡️ Javascript
 - 🐘 PHP
 - 🐬 MySQL
+-    HTML
+-    Css
 
 >
 
