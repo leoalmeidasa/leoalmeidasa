@@ -18,7 +18,7 @@
 - 🐘 PHP
 - 🐬 MySQL
 -    HTML
--    Css
+-    CSS
 
 >
 
