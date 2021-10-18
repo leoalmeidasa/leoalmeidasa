@@ -6,13 +6,14 @@
 ## About me 
 
 - ⚡️ Age: 26
-- 🌎 I'm from Porto Velho - Brazil
+- 🌎 I'm from Santa Helena- MA - Brazil
 - 🎬 I like to study and watching series/animes
 
 ## Studying now
 
 📝 The technologies I'm studying at the moment
 
+<code><img height="20" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
