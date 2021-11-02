@@ -1,6 +1,7 @@
 # Hi, I'm Leonardo! 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leoalmeidasa)](https://github.com/leoalmeidasa)
+<a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=leoalmeidasa@gmail.com" /></a>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-almeida-67bba4142/)](https://www.linkedin.com/in/leonardo-almeida-67bba4142/)
 
 ## About me 
