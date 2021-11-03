@@ -27,3 +27,8 @@
 >
 
 ![Leonardo Almeida GitHub Stats](https://github-readme-stats.vercel.app/api?username=leoalmeidasa&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true)
+
+## Total de visitas no meu perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/leoalmeidasa/count.svg" />
+ </p>
