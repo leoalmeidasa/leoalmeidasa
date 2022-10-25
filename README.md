@@ -2,7 +2,7 @@
 
 <h2> About me </h2>
 
-- ⚡️ Age: 27
+- ⚡️ Age: 28
 - 🌎 I'm from Santa Helena- MA - Brazil
 - 🎬 I like to study and watching series/animes
 
