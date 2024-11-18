@@ -2,7 +2,7 @@
 
 <h2> About me </h2>
 
-- ⚡️ Age: 29
+- ⚡️ Age: 30
 - 🌎 I'm from Pinheiro- MA - Brazil
 - 🎬 I like to study and watching series/animes
 
