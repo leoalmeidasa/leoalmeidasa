@@ -27,7 +27,7 @@
 <div style="display: flex;">
   <a href="https://github.com/leoalmeidasa">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoalmeidasa&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true" style="margin-right: 20px;"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoalmeidasa&layout=compact&langs_count=6&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoalmeidasa&layout=compact&langs_count=5&theme=dark&hide=php,html,css"/>
   </a>
 </div>
 
