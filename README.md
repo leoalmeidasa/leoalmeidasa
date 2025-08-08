@@ -22,7 +22,12 @@
   <a href="https://www.linkedin.com/in/leonardo-almeida-67bba4142/" alt="Linkedin">
   <img src="https://skillicons.dev/icons?i=linkedin&link=https://www.linkedin.com/in/leonardoalmeidafranco/"/></a>  
 <br>
-<br>
 
+<h2> Github Statistics </h2>
+<div style="display: flex;">
+  <a href="https://github.com/leoalmeidasa">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoalmeidasa&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true" style="margin-right: 20px;"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoalmeidasa&layout=compact&langs_count=6&theme=dark"/>
+  </a>
+</div>
 
-![Leonardo Almeida GitHub Stats](https://github-readme-stats.vercel.app/api?username=leoalmeidasa&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true)
