@@ -43,10 +43,36 @@ I'm **learning in public**: I keep a public study track, and I'm writing hands-o
 <details>
 <summary>🇧🇷 Em português</summary>
 
-Sou **engenheiro DevOps**. Trabalho com Kubernetes e OpenShift, pipelines no Azure DevOps e servidores Linux. Antes do DevOps, fui desenvolvedor full stack Ruby on Rails.
+<h2>Olá, eu sou o Leonardo Almeida 👋</h2>
 
-Estou estudando em público. Minha trilha de estudos está em [leoalmeidasa.github.io/trilha](https://leoalmeidasa.github.io/trilha/), e os labs práticos são baseados em problemas reais que já resolvi. Meu foco agora é a certificação **CKA** e o inglês para trabalhar com times internacionais.
+**Engenheiro DevOps** do Brasil 🇧🇷. Opero workloads em Kubernetes e OpenShift, construo CI/CD no Azure DevOps e mantenho servidores Linux saudáveis. Antes do DevOps fui desenvolvedor full stack Ruby on Rails, então ainda gosto de entender o lado da aplicação.
 
-Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/leonardoalmeidafranco/) ou por [e-mail](mailto:leoalmeidasa@gmail.com).
+Estou **estudando em público**: mantenho uma trilha de estudos pública e escrevo labs práticos baseados em problemas reais que já resolvi.
+
+### 🛠️ Com o que trabalho
+
+- **Containers e orquestração:** Kubernetes, OpenShift, k3s, Docker, Helm, Portainer
+- **CI/CD:** Azure DevOps Pipelines, Tekton, GitHub Actions
+- **Linux e redes:** systemd, nftables, DNS (systemd-resolved), VPNs, troubleshooting de MTU/MSS
+- **Aplicações que faço deploy e debug:** Ruby on Rails, PostgreSQL, Nginx
+
+### 🚀 Projetos em destaque
+
+| Projeto | O que é |
+|---|---|
+| [**trilha**](https://github.com/leoalmeidasa/trilha) · [no ar](https://leoalmeidasa.github.io/trilha/) | App de trilha de estudos DevOps + inglês com metas diárias, sequência de dias e catálogo de recursos grátis e pagos. Site estático servido por Nginx não-root no Docker, com CI e deploy no GitHub Pages. |
+| [**token-usage**](https://github.com/leoalmeidasa/token-usage) | Painel local de consumo de tokens e cotas restantes de agentes de IA para código. |
+| [**leme**](https://github.com/jcottobboni/leme) (contribuidor) | Cliente desktop sem agente para Kubernetes e OpenShift. Contribuí com topologia de projetos OpenShift, pastas de kubeconfig, regras de segurança para produção e a correção de um bug de tela preta ([#2](https://github.com/jcottobboni/leme/pull/2), [#3](https://github.com/jcottobboni/leme/pull/3), [#4](https://github.com/jcottobboni/leme/pull/4)). |
+
+### 📚 Agora
+
+- 🎯 Me preparando para a **CKA** (Certified Kubernetes Administrator)
+- 🧪 Escrevendo labs práticos: MTU/MSS em VPN, split DNS, requests/limits no Kubernetes, rotação de credenciais
+- 🗣️ Melhorando o listening e a conversação em inglês para times internacionais
+- 🗺️ Seguindo minha própria trilha: [leoalmeidasa.github.io/trilha](https://leoalmeidasa.github.io/trilha/)
+
+### 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/leonardoalmeidafranco/) · [E-mail](mailto:leoalmeidasa@gmail.com) · [Site](https://leoalmeidasa.github.io/)
 
 </details>
